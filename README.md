@@ -22,3 +22,4 @@ Multivariate Time Analysis is used when we have more than one dependent variable
 The most commonly used methods for multivariate time series forecasting – Vector Auto Regression (VAR).
 
 In a VAR model, each variable is a linear function of the past values of itself and the past values of all the other variable.
+A good reading for Multivariate Time Series: https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/
