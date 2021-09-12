@@ -15,3 +15,10 @@ For this repo, I'm going to demonstrate 4 Time Series Methods. Actually there ar
 * Auto ARIMA
 * Prophet
 * Regresssion
+* Vector Autoregression (VAR) : To deal with Multivariate Time Analysis
+
+## 3. Multivariate Time Analysis
+Multivariate Time Analysis is used when we have more than one dependent variable for time series.
+The most commonly used methods for multivariate time series forecasting – Vector Auto Regression (VAR).
+
+In a VAR model, each variable is a linear function of the past values of itself and the past values of all the other variable.
