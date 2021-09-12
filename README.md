@@ -7,3 +7,11 @@ Time Series Forecasting
 
 ## Process:
 * Similar with Machine Learning process but the inputs are limited to 2, i.e : ds (datetime[ns] and y-value)
+
+## 2. Time Series Analysis Methods
+For this repo, I'm going to demonstrate 4 Time Series Methods. Actually there are more methods to explore, will update this repo later on.
+
+* Autoregressive Integrated Moving Average (ARIMA)
+* Auto ARIMA
+* Prophet
+* Regresssion
