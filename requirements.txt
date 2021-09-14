@@ -1,0 +1,6 @@
+fbprophet
+pmdarima
+plotly
+neuralprophet
+pandas
+numpy
