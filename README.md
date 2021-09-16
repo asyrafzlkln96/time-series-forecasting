@@ -23,3 +23,9 @@ The most commonly used methods for multivariate time series forecasting – Vect
 
 In a VAR model, each variable is a linear function of the past values of itself and the past values of all the other variable.
 A good reading for Multivariate Time Series: https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/
+
+## 4. Prophet model - An open source software by Facebook's core Data Science team
+*  Prophet is a procedure for forecasting time series data based on additive model where non-linear trends are fit with yearly, weekly and daily seasonality.
+*  It works best with time series that have strong seasonal effects and several seasons of historical data
+*  Prophet is robust to missing data and shifts in the trend and typically handles outliers well.
+Source / Read more: https://facebook.github.io/prophet/
